@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         {
             System.out.println("Hello World");
         }
+        public void test(int m){
+        }
     }
 }
